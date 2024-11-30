@@ -1,5 +1,4 @@
-# Ejercicios del examen de la 3ra unidad.
-# 29/11/2024
+# Ejercicios del examen de la 3ra unidad.29/11/2024
 
 # Ejercicio 1
 
